@@ -10,9 +10,9 @@ interface Experience {
 const experiences: Experience[] = [
   {
     date: '2024 - 至今',
-    title: '高级全栈开发工程师',
+    title: '全栈开发工程师 & AI 工程师',
     company: '某科技公司',
-    description: '负责核心业务系统架构设计与开发，主导微服务化改造，系统性能提升 300%。带领 5 人团队完成多个重要项目交付。',
+    description: '负责 AI 推理服务架构设计与开发，主导 vLLM/SGLang 部署与优化，推理吞吐量提升 200%。带领 5 人团队完成多个重要项目交付。',
   },
   {
     date: '2022 - 2024',

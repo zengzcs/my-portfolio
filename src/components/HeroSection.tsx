@@ -6,11 +6,11 @@ export default function HeroSection() {
       <div className="hero-content">
         <p className="hero-greeting">Hello World, I'm</p>
         <h1 className="hero-name glitch-text">
-          <span className="cyan">ZHEN</span>
+          <span className="cyan">ZENG</span>
           <span className="magenta">ZCS</span>
         </h1>
         <p className="hero-subtitle">
-          Full-Stack Developer &amp; Creative Coder
+          Full-Stack Developer &amp; AI Engineer
         </p>
         <div className="hero-buttons">
           <a href="#projects" className="neon-button">

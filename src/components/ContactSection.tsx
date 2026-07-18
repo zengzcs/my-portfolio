@@ -12,7 +12,7 @@ export default function ContactSection() {
             有任何想法或合作机会？随时通过以下方式联系我
           </p>
           <div style={{ display: 'flex', justifyContent: 'center', gap: 20, flexWrap: 'wrap', marginBottom: 30 }}>
-            <a href="mailto:zengzcs@example.com" className="social-link" title="Email">
+            <a href="mailto:zengzcs@gmail.com" className="social-link" title="Email">
               ✉
             </a>
             <a href="https://github.com/zengzcs" target="_blank" rel="noopener noreferrer" className="social-link social-link-magenta" title="GitHub">
@@ -31,7 +31,7 @@ export default function ContactSection() {
                 EMAIL
               </p>
               <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>
-                zengzcs@example.com
+                zengzcs@gmail.com
               </p>
             </div>
             <div>

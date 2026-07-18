@@ -28,9 +28,9 @@ export default function AboutSection() {
             </div>
             <div style={{ flex: '2 1 300px' }}>
               <p className="card-text" style={{ fontSize: '1.1rem', lineHeight: 1.8 }}>
-                你好！我是一名热爱技术的<span style={{ color: 'var(--neon-cyan)', textShadow: '0 0 8px rgba(0,240,255,0.5)' }}>全栈开发工程师</span>，
-                专注于构建高性能、视觉震撼的 Web 应用。擅长将创意设计与前沿技术结合，
-                打造令人难忘的数字体验。
+                你好！我是一名热爱技术的<span style={{ color: 'var(--neon-cyan)', textShadow: '0 0 8px rgba(0,240,255,0.5)' }}>全栈开发工程师 & AI 工程师</span>，
+                专注于 AI 推理框架、高性能后端服务和视觉震撼的 Web 应用。擅长将前沿 AI 技术与工程实践结合，
+                打造高性能、可落地的系统。
               </p>
               <br />
               <p className="card-text">

@@ -10,11 +10,11 @@ const skills: Skill[] = [
   { name: 'JavaScript / TypeScript', percent: 95, color: 'cyan' },
   { name: 'React / Next.js', percent: 90, color: 'cyan' },
   { name: 'Astro / Vue', percent: 85, color: 'magenta' },
-  { name: 'Node.js / Express', percent: 88, color: 'magenta' },
-  { name: 'Python / Django', percent: 80, color: 'yellow' },
-  { name: 'PostgreSQL / MongoDB', percent: 82, color: 'yellow' },
-  { name: 'Docker / K8s', percent: 75, color: 'green' },
-  { name: 'AWS / GCP', percent: 70, color: 'green' },
+  { name: 'Fastify / NestJS', percent: 92, color: 'magenta' },
+  { name: 'Rust / Axum', percent: 80, color: 'yellow' },
+  { name: 'vLLM / SGLang', percent: 85, color: 'yellow' },
+  { name: 'llama.cpp', percent: 78, color: 'green' },
+  { name: 'Docker / K8s / AWS', percent: 75, color: 'green' },
 ];
 
 export default function SkillsSection() {
@@ -29,7 +29,7 @@ export default function SkillsSection() {
             <h3 className="card-title" style={{ color: 'var(--neon-cyan)', textShadow: '0 0 8px rgba(0,240,255,0.5)' }}>
               前端开发
             </h3>
-            {skills.slice(0, 4).map((skill) => (
+            {skills.slice(0, 3).map((skill) => (
               <div key={skill.name} style={{ marginBottom: 18 }}>
                 <div className="skill-item-label">
                   <span className="skill-item-name">{skill.name}</span>
@@ -46,9 +46,9 @@ export default function SkillsSection() {
           </div>
           <div className="card card-magenta">
             <h3 className="card-title" style={{ color: 'var(--neon-magenta)', textShadow: '0 0 8px rgba(255,0,255,0.5)' }}>
-              后端 & DevOps
+              后端 & AI 推理
             </h3>
-            {skills.slice(4).map((skill) => (
+            {skills.slice(3).map((skill) => (
               <div key={skill.name} style={{ marginBottom: 18 }}>
                 <div className="skill-item-label">
                   <span className="skill-item-name">{skill.name}</span>
@@ -70,7 +70,7 @@ export default function SkillsSection() {
               常用技术栈
             </h3>
             <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: 8, marginTop: 16 }}>
-              {['React', 'TypeScript', 'Node.js', 'PostgreSQL', 'Docker', 'AWS', 'Tailwind', 'GraphQL', 'Redis', 'MongoDB', 'Vite', 'Astro'].map((tech) => (
+              {['React', 'TypeScript', 'Astro', 'Fastify', 'NestJS', 'Rust', 'Axum', 'vLLM', 'SGLang', 'llama.cpp', 'Docker', 'K8s'].map((tech) => (
                 <span key={tech} className={`tech-tag tech-tag-${['cyan', 'magenta', 'yellow', 'green'][Math.floor(Math.random() * 4)]}`}>
                   {tech}
                 </span>

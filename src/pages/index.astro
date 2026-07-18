@@ -13,12 +13,12 @@ import '../styles/global.css';
 <html lang="zh-CN">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
+		<link rel="icon" type="image/svg+xml" href={Astro.site ? `${Astro.site}/favicon.svg` : '/favicon.svg'} />
+		<link rel="icon" href={Astro.site ? `${Astro.site}/favicon.ico` : '/favicon.ico'} />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<meta name="description" content="ZHENZCS - Full-Stack Developer & Creative Coder. 全栈开发工程师，专注于构建高性能、视觉震撼的 Web 应用。" />
+		<meta name="description" content="ZENGZCS - Full-Stack Developer & AI Engineer. 全栈开发工程师 & AI 工程师，专注于构建高性能、视觉震撼的 Web 应用。" />
 		<meta name="theme-color" content="#0a0a0f" />
-		<title>ZHENZCS | Full-Stack Developer</title>
+		<title>ZENGZCS | Full-Stack Developer & AI Engineer</title>
 	</head>
 	<body>
 		<ParticlesCanvas />
@@ -38,7 +38,7 @@ import '../styles/global.css';
 		</main>
 		<footer class="footer">
 			<div class="container">
-				<p>Built with <span style="color: var(--neon-cyan);">Astro</span> + <span style="color: var(--neon-magenta);">React</span> | &copy; 2025 <a href="#hero">ZHENZCS</a></p>
+				<p>Built with <span style="color: var(--neon-cyan);">Astro</span> + <span style="color: var(--neon-magenta);">React</span> | &copy; 2025 <a href="#hero">ZENGZCS</a></p>
 			</div>
 		</footer>
 	</body>

@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className="container">
         <a href="#hero" className="navbar-brand">
-          &lt;ZHEN /&gt;
+          &lt;ZENG /&gt;
         </a>
         <ul className="navbar-links">
           <li><a href="#about">关于</a></li>
