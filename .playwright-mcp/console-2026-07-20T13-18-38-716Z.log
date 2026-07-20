@@ -1,0 +1,90 @@
+[-1777279ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[-1850391ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[-1775384ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://hm.baidu.com/hm.js?ec1bbd5f641073ff6ffda17829b765b6:0
+[-1850310ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[-1775210ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://www.google-analytics.com/g/collect?v=2&tid=G-ZN57WE57RQ&gtm=45je67f0v9227327122za200zd9227327122&_p=1784551743323&gcd=13l3l3l3l1l1&npa=0&dma=0&are=1&cid=451474932.1784551743&frm=0&lps=1&ngs=1&pscdl=noapi&rcb=2&sr=2048x1152&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.128%7CGoogle%2520Chrome%3B150.0.7871.128&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=zh-cn&_s=1&tag_exp=115938466~115938469~118897920~118897930~119709550&sid=1784551743&sct=1&seg=0&dl=https%3A%2F%2Fwww.glafamily.com%2Fen%2Fhome&dr=https%3A%2F%2Fwww.google.com.hk%2F&dt=GLA%20family%20GLA%20Global%20Logistics%20Alliance%20Logistics%20network%20Global%20Logistics%20network_jilewuliu%20%7C%20GLA%20Global%20Logistics%20Alliance&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3247:0
+[-1849387ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ -670044ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://www.glafamily.com/images/noise.png:0
+[-1847383ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ -664091ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://www.google-analytics.com/g/collect?v=2&tid=G-ZN57WE57RQ&gtm=45je67f0v9227327122za200zd9227327122&_p=1784551743323&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=451474932.1784551743&frm=0&lps=1&ngs=1&pscdl=noapi&rcb=2&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.128%7CGoogle%2520Chrome%3B150.0.7871.128&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=zh-cn&_s=2&tag_exp=115938466~115938469~118897920~118897930~119709550&dl=https%3A%2F%2Fwww.glafamily.com%2Fen%2Fpayment-home&dr=https%3A%2F%2Fwww.glafamily.com%2Fen%2Fhome&sid=1784551743&sct=1&seg=1&dt=GLA%20Global%20Logistics%20Alliance&en=page_view&_et=30112&tfd=1114366:0
+[-1843379ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ -656295ms] [WARNING] The resource https://www.glafamily.com/_next/static/css/22a30eb88af899ce.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.glafamily.com/en/payment-home:0
+[-1835374ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ -654572ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://www.google-analytics.com/g/collect?v=2&tid=G-ZN57WE57RQ&gtm=45je67f0v9227327122za200zd9227327122&_p=1784551743323&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=451474932.1784551743&frm=0&lps=1&ngs=1&pscdl=noapi&rcb=2&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.128%7CGoogle%2520Chrome%3B150.0.7871.128&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=zh-cn&_s=3&tag_exp=115938466~115938469~118897920~118897930~119709550&sid=1784551743&sct=1&seg=1&dl=https%3A%2F%2Fwww.glafamily.com%2Fen%2Fpayment-home&dr=https%3A%2F%2Fwww.glafamily.com%2Fen%2Fhome&dt=GLA%20Global%20Logistics%20Alliance&en=scroll&epn.percent_scrolled=90&_et=9519&tfd=1123886:0
+[-1819371ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ -648709ms] [WARNING] The resource https://www.glafamily.com/_next/static/css/22a30eb88af899ce.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.glafamily.com/en/payment-home:0
+[-1787366ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ -645383ms] [WARNING] The resource https://www.glafamily.com/_next/static/css/22a30eb88af899ce.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.glafamily.com/en/payment-home:0
+[-1723362ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ -637567ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://www.google-analytics.com/g/collect?v=2&tid=G-ZN57WE57RQ&gtm=45je67f0v9227327122za200zd9227327122&_p=1784551743323&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=451474932.1784551743&frm=0&lps=1&ngs=1&pscdl=noapi&rcb=2&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.128%7CGoogle%2520Chrome%3B150.0.7871.128&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=zh-cn&_s=4&tag_exp=115938466~115938469~118897920~118897930~119709550&dl=https%3A%2F%2Fwww.glafamily.com%2Fen%2Fnetworks&dr=https%3A%2F%2Fwww.glafamily.com%2Fen%2Fpayment-home&sid=1784551743&sct=1&seg=1&dt=GLA%20family%20GLA%20Global%20Logistics%20Alliance%20Logistics%20network%20Global%20Logistics%20network_jilewuliu%20%7C%20GLA%20Global%20Logistics%20Alliance&en=page_view&_et=17002&tfd=1140890:0
+[-1595357ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ -632447ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://www.google-analytics.com/g/collect?v=2&tid=G-ZN57WE57RQ&gtm=45je67f0v9227327122za200zd9227327122&_p=1784551743323&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=451474932.1784551743&frm=0&lps=1&ngs=1&pscdl=noapi&rcb=2&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253BA%253DBrand%3B8.0.0.0%7CChromium%3B150.0.7871.128%7CGoogle%2520Chrome%3B150.0.7871.128&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=zh-cn&tag_exp=115938466~115938469~118897920~118897930~119709550&dl=https%3A%2F%2Fwww.glafamily.com%2Fen%2Fmembership-application&dr=https%3A%2F%2Fwww.glafamily.com%2Fen%2Fnetworks&sid=1784551743&sct=1&seg=1&dt=GLA%20family%20GLA%20Global%20Logistics%20Alliance%20Logistics%20network%20Global%20Logistics%20network_jilewuliu%20%7C%20GLA%20Global%20Logistics%20Alliance&_s=5&tfd=1146011:0
+[-1339353ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[-1777559ms] [INFO] [INFO] App initialized Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ -827348ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[-1476759ms] [INFO] [INFO] User logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ -227344ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[-1476759ms] [INFO] [INFO] Token expired, user logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[-1850662ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 20006317, userInfo:{"user_unique_id":"98c26f6d-0bb0-4558-b4d6-b4169556770c","web_id":"7643096029255978763"} @ https://lf3-data.volccdn.com/obj/data-static/log-sdk/collect/5.0/collect-rangers-v5.2.11.js:0
+[-1176761ms] [INFO] [INFO] User logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[-1850662ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 20006317, sdk is ready, version is 5.2.11_tob, you can report now !!! @ https://lf3-data.volccdn.com/obj/data-static/log-sdk/collect/5.0/collect-rangers-v5.2.11.js:0
+[-1176761ms] [INFO] [INFO] Token expired, user logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ -876761ms] [INFO] [INFO] User logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ -876760ms] [INFO] [INFO] Token expired, user logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ -576761ms] [INFO] [INFO] User logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ -576761ms] [INFO] [INFO] Token expired, user logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ -276761ms] [INFO] [INFO] User logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ -276761ms] [INFO] [INFO] Token expired, user logged out Object @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[      20ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rv (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:30958)
+    at ol (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:75599)
+    at uu (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:112578)
+    at https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:108677
+    at https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:108684
+    at i8 (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:108781)
+    at uD (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:129419)
+    at MessagePort.j (https://www.glafamily.com/_next/static/chunks/5297-957237b7baa7805b.js:1:138804)
+[      20ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rv (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:30958)
+    at ol (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:75599)
+    at uu (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:112578)
+    at https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:108677
+    at https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:108684
+    at i8 (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:108781)
+    at uD (https://www.glafamily.com/_next/static/chunks/4bd1b696-7959eea96b193435.js:1:129419)
+    at MessagePort.j (https://www.glafamily.com/_next/static/chunks/5297-957237b7baa7805b.js:1:138804)
+[   23239ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[   23240ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[  328241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[  328241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[  372660ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[  628241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[  628241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[  928241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[  928241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[  972665ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 1228241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 1228241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 1525047ms] fetchError: Failed to fetch
+    at BL (chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4847:11313)
+    at e.sendFrom (chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4847:2196)
+    at async C5.sendWithHealth (chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4847:16206)
+    at async uoe (chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4847:21930)
+    at async pe (chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4847:19958)
+    at async chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4848:25767
+[ 1528243ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 1528244ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 1572669ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 1828241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 1828241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 2128241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 2128241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 2172682ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 2428241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 2428241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 2728241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 2728241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 2772687ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 3028241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 3028241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
+[ 3372691ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0

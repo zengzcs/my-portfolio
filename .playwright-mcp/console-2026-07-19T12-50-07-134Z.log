@@ -1,0 +1,17 @@
+[     367ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 20006317, userInfo:{"user_unique_id":"98c26f6d-0bb0-4558-b4d6-b4169556770c","web_id":"7643096029255978763"} @ https://lf3-data.volccdn.com/obj/data-static/log-sdk/collect/5.0/collect-rangers-v5.2.11.js:0
+[     368ms] [LOG] %c %s color: yellow; background-color: black; [instance: default] appid: 20006317, sdk is ready, version is 5.2.11_tob, you can report now !!! @ https://lf3-data.volccdn.com/obj/data-static/log-sdk/collect/5.0/collect-rangers-v5.2.11.js:0
+[     447ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[     769ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[    1451ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[    3455ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[    7460ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[   15464ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[   31468ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[   63473ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[  127477ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[  255482ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[  511487ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 1023491ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 1623496ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 2223500ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 2823504ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0

@@ -1,0 +1,243 @@
+[     625ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://hm.baidu.com/hm.js?98beee57fd2ef70ccdd5ca52b9740c49:0
+[     730ms] [LOG] %c知乎 ฅ՞•ﻌ•՞ฅ color:#1772F6;font-weight:bold;font-size:6em;padding:10px 30px;text-shadow:0.7px -1px 0 rgb(255 255 255 / 100%),1.4px -2px 0 rgb(255 255 255 / 96%),2.0999999999999996px -3px 0 rgb(255 255 255 / 92%),2.8px -4px 0 rgb(255 255 255 / 88%),-1px 1px 2px rgb(0 0 0 / 70%),-2px 2px 4px rgb(0 0 0 / 70%),-3px 3px 6px rgb(0 0 0 / 70%);background: linear-gradient(to right top,oklab(58.2% -0.04 -0.21),oklab(58.2% -0.376 -0.21)); @ https://static.zhihu.com/heifetz/main.app.0d90fcca7d0bc7b61aa5.js:0
+[     730ms] [LOG] 加入知乎 https://s.zhihu.com/BDXoD @ https://static.zhihu.com/heifetz/main.app.0d90fcca7d0bc7b61aa5.js:0
+[     765ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[     794ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[     812ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[     834ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[     854ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[     897ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[     944ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://zz.bdstatic.com/linksubmit/push.js:0
+[     948ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/pc_answer_feed?question_token=2060802734727733417&answer_token=2061608252538935152:0
+[     948ms] [ERROR] TypeError: Failed to fetch
+    at https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:1:23867
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:396253
+    at Generator.<anonymous> (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:392543)
+    at Generator.next (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:394782)
+    at eu (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:84:30373)
+    at ep (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:84:30599)
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:84:30674
+    at new Promise (<anonymous>)
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:84:30532
+    at push.42223.u (https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:1:24127) @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[     949ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/answer_up?question_token=2060802734727733417&answer_token=2061608252538935152:0
+[     949ms] [ERROR] TypeError: Failed to fetch
+    at eD (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:145926)
+    at ec.loadBannerRequest (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:59199)
+    at ec.load (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:60337)
+    at eo.value (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:62197)
+    at Bj (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:144:273)
+    at Qj (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:176:361)
+    at unstable_runWithPriority (https://static.zhihu.com/event/react@17.0.2/umd/react.production.min.js:24:26)
+    at Za (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:8)
+    at eb (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:170:163)
+    at gf (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:162:317) @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[     968ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1046ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1067ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1077ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1091ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1102ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1114ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1124ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1142ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1152ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1161ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1178ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1186ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1193ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1218ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1231ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1244ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1270ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1321ms] [LOG] [INFO] [Zhida: WebView] [Theme Web] pull theme from RN @ https://static.zhihu.com/amadeus-rn/web/shared-9ed005cb5d6a9861.ddc0c30afcf9b4b4.js:0
+[    1321ms] [WARNING] MMKV not available, fallback @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[    1340ms] [WARNING] MMKV not available, fallback @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[    1495ms] [ERROR] 加载WebView模块失败: TypeError: r is not a function
+    at Object.NnQt (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:7886)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at 16Ih (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:7733)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at /URq (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:9929)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.uIxh (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:16342)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.neyw (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:30064)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248) @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[    1514ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1535ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1547ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1561ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1572ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1588ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1597ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1616ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1633ms] [LOG] answer feed status @ https://static.zhihu.com/heifetz/chunks/1307.478e6b90daaee620696d.js:0
+[    1650ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    1663ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    1693ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    1710ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    1745ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    1766ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    1783ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    1847ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/answer_down_sticky?question_token=2060802734727733417&answer_token=2061608252538935152:0
+[    1847ms] [ERROR] TypeError: Failed to fetch
+    at https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:28507
+    at eD (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:145926)
+    at ec.loadBannerRequest (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:59199)
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:60307 @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[    1873ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    1892ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    1969ms] Error: Load script from https://zz.bdstatic.com/linksubmit/push.js failed
+    at ef.onerror (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:372708)
+[    2041ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    2054ms] [ERROR] Access to XMLHttpRequest at 'https://118.89.204.198/resolv?host=www.zhihu.com&os_type=web' from origin 'https://www.zhihu.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.zhihu.com/question/2060802734727733417/answer/2061608252538935152:0
+[    2054ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://118.89.204.198/resolv?host=www.zhihu.com&os_type=web:0
+[    2070ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[    2187ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[    2254ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://crash2.zhihu.com/api/1224/store/?sentry_version=7&sentry_client=raven-js%2F3.24.0&sentry_key=2d8d764432cc4f6fb3bc78ab9528299d:0
+[   17710ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[   18004ms] [LOG] answer feed status @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[   22380ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/question_up?question_token=2060802734727733417:0
+[   22380ms] [ERROR] TypeError: Failed to fetch
+    at https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:28507
+    at eD (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:145926)
+    at ec.loadBannerRequest (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:59199)
+    at ec.load (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:60337)
+    at eo.value (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:62197)
+    at Bj (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:144:273)
+    at Qj (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:176:361)
+    at unstable_runWithPriority (https://static.zhihu.com/event/react@17.0.2/umd/react.production.min.js:24:26)
+    at Za (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:8)
+    at eb (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:170:163)
+    at gf (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:162:317)
+    at https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:230
+    at unstable_runWithPriority (https://static.zhihu.com/event/react@17.0.2/umd/react.production.min.js:24:26)
+    at Za (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:8)
+    at $g (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:176)
+    at ja (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:111)
+    at Pa (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:157:212)
+    at Object.enqueueSetState (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:218:344)
+    at e.setState (https://static.zhihu.com/event/react@17.0.2/umd/react.production.min.js:19:126)
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:28642
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:23351
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:20144
+    at n (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:16533)
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:16645
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:16731
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:16891
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:16625
+    at Array.forEach (<anonymous>)
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:16603
+    at T (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:16658)
+    at u (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:20119)
+    at n (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:21120)
+    at runEnterHooks (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:21368)
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:20327
+    at c (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:15748)
+    at _ (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:15754)
+    at n (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:21162)
+    at runChangeHooks (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:21611)
+    at s (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:20283)
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:19970
+    at n (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:15569)
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:19595
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:19489
+    at n (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:15569)
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:19595
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:19489
+    at n (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:15569)
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:19595
+    at https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:19489
+    at c (https://static.zhihu.com/heifetz/vendor.34378963658eb961e183.js:24:15712) @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[   22797ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/question_down_sticky?question_token=2060802734727733417:0
+[   22797ms] [ERROR] TypeError: Failed to fetch
+    at https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:28507
+    at eD (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:145926)
+    at ec.loadBannerRequest (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:59199)
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:60307
+    at i (https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:19163) @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[  335620ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://hm.baidu.com/hm.js?98beee57fd2ef70ccdd5ca52b9740c49:0
+[  336200ms] [LOG] %c知乎 ฅ՞•ﻌ•՞ฅ color:#1772F6;font-weight:bold;font-size:6em;padding:10px 30px;text-shadow:0.7px -1px 0 rgb(255 255 255 / 100%),1.4px -2px 0 rgb(255 255 255 / 96%),2.0999999999999996px -3px 0 rgb(255 255 255 / 92%),2.8px -4px 0 rgb(255 255 255 / 88%),-1px 1px 2px rgb(0 0 0 / 70%),-2px 2px 4px rgb(0 0 0 / 70%),-3px 3px 6px rgb(0 0 0 / 70%);background: linear-gradient(to right top,oklab(58.2% -0.04 -0.21),oklab(58.2% -0.376 -0.21)); @ https://static.zhihu.com/heifetz/main.app.0d90fcca7d0bc7b61aa5.js:0
+[  336200ms] [LOG] 加入知乎 https://s.zhihu.com/BDXoD @ https://static.zhihu.com/heifetz/main.app.0d90fcca7d0bc7b61aa5.js:0
+[  336321ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/home_up:0
+[  336321ms] [ERROR] TypeError: Failed to fetch
+    at eD (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:145926)
+    at eo.loadBannerRequest (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:59199)
+    at eo.load (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:60337)
+    at eo.value (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:62197)
+    at Bj (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:144:273)
+    at Qj (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:176:361)
+    at unstable_runWithPriority (https://static.zhihu.com/event/react@17.0.2/umd/react.production.min.js:24:26)
+    at Za (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:8)
+    at eb (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:170:163)
+    at gf (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:162:317) @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[  336326ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/pc_top_banner?:0
+[  336326ms] [ERROR] TypeError: Failed to fetch
+    at eM (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:146181)
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:82140
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:82252
+    at Tj (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:179:399)
+    at unstable_runWithPriority (https://static.zhihu.com/event/react@17.0.2/umd/react.production.min.js:24:26)
+    at Za (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:8)
+    at Ra (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:178:368)
+    at gf (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:161:497)
+    at https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:230
+    at unstable_runWithPriority (https://static.zhihu.com/event/react@17.0.2/umd/react.production.min.js:24:26) @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[  336327ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/pc_right_banner?:0
+[  336327ms] [ERROR] TypeError: Failed to fetch
+    at eM (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:146181)
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:83540
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:83654
+    at Tj (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:179:399)
+    at unstable_runWithPriority (https://static.zhihu.com/event/react@17.0.2/umd/react.production.min.js:24:26)
+    at Za (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:8)
+    at Ra (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:178:368)
+    at gf (https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:161:497)
+    at https://static.zhihu.com/event/react-dom@17.0.2/umd/react-dom.production.min.js:73:230
+    at unstable_runWithPriority (https://static.zhihu.com/event/react@17.0.2/umd/react.production.min.js:24:26) @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[  336723ms] [LOG] [INFO] [Zhida: WebView] [Theme Web] pull theme from RN @ https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:0
+[  336724ms] [WARNING] MMKV not available, fallback @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[  336754ms] [WARNING] MMKV not available, fallback @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[  336915ms] [ERROR] 加载WebView模块失败: TypeError: r is not a function
+    at Object.NnQt (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:7886)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at 16Ih (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:7733)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at /URq (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:9929)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.uIxh (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:16342)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.neyw (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:30064)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at +5TC (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:274400)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.a2Ca (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:271435)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at 2G2G (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:273753)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.v2E4 (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:175748)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at 7k+8 (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:336247)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Module.tb3p (https://static.zhihu.com/amadeus-rn/web/shared-07e3b8d7f3535a74.27b5d0733be204ff.js:1:369521)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at Og+B (https://static.zhihu.com/amadeus-rn/web/node_modules_zhihu_design-icons_native_ArrowRight16_jsx-node_modules_zhihu_design-icons_nativ-09d112.12a5de6f950ce5f0.js:1:22268)
+    at r (https://www.zhihu.com/appview/rn/ModuleFederation.js:1:248)
+    at https://www.zhihu.com/appview/rn/ModuleFederation.js:1:19797
+    at https://static.zhihu.com/heifetz/lib-fae4f1f9.app.2a53c780e75bf169b2e0.js:1:5248
+    at eh (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:84:374339)
+    at Object.next (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:84:373545)
+    at eu (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:84:93970)
+    at ep (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:84:94191) @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[  337190ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[  337206ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/home_bottom:0
+[  337206ms] [ERROR] TypeError: Failed to fetch
+    at https://unpkg.zhimg.com/@cfe/sentry-script@1.3.1/dist/init.js:1:28507
+    at eD (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:145926)
+    at eo.loadBannerRequest (https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:59199)
+    at https://static.zhihu.com/heifetz/479.app.d33be5c23176c6688c1f.js:76:60307 @ chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/installHook.js:0
+[  337267ms] [ERROR] Access to XMLHttpRequest at 'https://118.89.204.198/resolv?host=www.zhihu.com&os_type=web' from origin 'https://www.zhihu.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.zhihu.com/:0
+[  337267ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://118.89.204.198/resolv?host=www.zhihu.com&os_type=web:0
+[  628294ms] [ERROR] WebSocket connection to 'wss://mqtt-web.zhihu.com/mqtt?client_info=OS%3DWeb&user_group=zhihu_web' failed:  @ https://static.zhihu.com/heifetz/chunks/lib-74f62c79.f945c58fd5a13abc809e.js:10
+[  748293ms] [ERROR] WebSocket connection to 'wss://mqtt-web.zhihu.com/mqtt?client_info=OS%3DWeb&user_group=zhihu_web' failed:  @ https://static.zhihu.com/heifetz/chunks/lib-74f62c79.f945c58fd5a13abc809e.js:10

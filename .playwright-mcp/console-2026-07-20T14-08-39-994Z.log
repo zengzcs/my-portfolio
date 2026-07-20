@@ -1,0 +1,2 @@
+[     142ms] [ERROR] Refused to apply style from 'https://zengzcs-portfolio.pages.dev/my-portfolio/_astro/index.r1RKIOB_.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled. @ https://zengzcs-portfolio.pages.dev/:0
+[     601ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846

@@ -1,0 +1,13 @@
+[-4357826ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://hm.baidu.com/hm.js?86aa1be6b8f0adbb6e53fa6cade2c6f1:0
+[-1796708ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://www.googleadservices.com/pagead/conversion/16521530460/?gad_source=1&adview_type=1&adview_query_id=COaq1pul4ZUDFbfUFgUdo4s7yg:0
+[-1213082ms] [LOG] %conConnectionLost(message): font-weight:bold;color:#ff0000; @ https://static.zhipin.com/fe-zhipin-geek/web/chat-new/v5506/static/js/app.3845986d.js:1
+[-1796447ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://www.googleadservices.com/pagead/conversion/16521530460/?gad_source=1&adview_type=1&adview_query_id=COaq1pul4ZUDFbfUFgUdo4s7yg:0
+[-4357638ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://www.qmjianli.com/:0
+[-1213082ms] [LOG] AMQJS0008I Socket closed. @ https://static.zhipin.com/fe-zhipin-geek/web/chat-new/v5506/static/js/app.3845986d.js:1
+[-1796265ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[-4357452ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[-1212600ms] [LOG] %conConnectionLost(message): font-weight:bold;color:#ff0000; @ https://static.zhipin.com/fe-zhipin-geek/web/chat-new/v5506/static/js/app.3845986d.js:1
+[-1795940ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=oos&tv=2489&st=cr_env&sjk=KRlearuqKd-pvr0PyMyDQQ:0
+[-1212600ms] [LOG] AMQJS0008I Socket closed. @ https://static.zhipin.com/fe-zhipin-geek/web/chat-new/v5506/static/js/app.3845986d.js:1
+[-1211400ms] [LOG] %conConnectionLost(message): font-weight:bold;color:#ff0000; @ https://static.zhipin.com/fe-zhipin-geek/web/chat-new/v5506/static/js/app.3845986d.js:1
+[-1211400ms] [LOG] AMQJS0008I Socket closed. @ https://static.zhipin.com/fe-zhipin-geek/web/chat-new/v5506/static/js/app.3845986d.js:1

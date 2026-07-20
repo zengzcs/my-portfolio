@@ -1,0 +1,32 @@
+[       3ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-regular.woff2 @ chrome://new-tab-page/:30
+[    2381ms] [WARNING] Deprecated API for given entry type. @ https://s1.hdslb.com/bfs/static/shanks/laputa-home/assets/index-73ec377e.js:47
+[    2735ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[    4554ms] [INFO] %c bili-fe-mirror %c v2.1.0  padding: 2px 6px; border-radius: 3px 0 0 3px; color: #fff; background: #FF6699; font-weight: bold; padding: 2px 6px; border-radius: 0 3px 3px 0; color: #fff; background: #FF9999; font-weight: bold; @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:1
+[    4910ms] [LOG] %c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                                          Release undefined@no release yet
+         \/            \/                                       Powered by @bilibili/jinkela-core@2.8.13 color:#00a1d6 @ https://s1.hdslb.com/bfs/static/jinkela/token-iframe/token-iframe.3b54ea012aacee6493ec950e1df23fd7743740cb.js:0
+[    5340ms] [LOG] 白屏检测是否正常 {status: ok, loop: 0, data: Object} @ https://www.bilibili.com/:159
+[    7182ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[    9209ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://hm.baidu.com/hm.js?98beee57fd2ef70ccdd5ca52b9740c49:0
+[    9634ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/home_up:0
+[    9636ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/pc_top_banner?:0
+[    9636ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/pc_right_banner?:0
+[   10257ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[   10431ms] [ERROR] Access to XMLHttpRequest at 'https://118.89.204.198/resolv?host=www.zhihu.com&os_type=web' from origin 'https://www.zhihu.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.zhihu.com/:0
+[   10431ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://118.89.204.198/resolv?host=www.zhihu.com&os_type=web:0
+[   10508ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ https://www.zhihu.com/commercial_api/banners_v3/home_bottom:0
+[   82973ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://zhuanlan.zhihu.com') does not match the recipient window's origin ('https://www.zhihu.com'). @ https://static.zhihu.com/heifetz/main.app.0d90fcca7d0bc7b61aa5.js:0
+[  410319ms] [ERROR] WebSocket connection to 'wss://mqtt-web.zhihu.com/mqtt?client_info=OS%3DWeb&user_group=zhihu_web' failed:  @ https://static.zhihu.com/heifetz/chunks/lib-74f62c79.f945c58fd5a13abc809e.js:10
+[  650343ms] [ERROR] WebSocket connection to 'wss://mqtt-web.zhihu.com/mqtt?client_info=OS%3DWeb&user_group=zhihu_web' failed:  @ https://static.zhihu.com/heifetz/chunks/lib-74f62c79.f945c58fd5a13abc809e.js:10

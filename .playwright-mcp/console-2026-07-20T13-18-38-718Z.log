@@ -1,0 +1,3 @@
+[-4719712ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[-4719651ms] [LOG] recaptchacompat disabled @ https://js.hcaptcha.com/1/api.js?recaptchacompat=off:3
+[-4719644ms] [LOG] recaptchacompat disabled @ https://js.hcaptcha.com/1/api.js?recaptchacompat=off:3
