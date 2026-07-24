@@ -88,3 +88,8 @@
 [ 3028241ms] [INFO] [INFO] User logged out {action: clearToken} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
 [ 3028241ms] [INFO] [INFO] Token expired, user logged out {action: tokenExpiry} @ https://www.glafamily.com/_next/static/chunks/7781-a1154485f391a00b.js:0
 [ 3372691ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 3972715ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 4572719ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 5172723ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 5772728ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0
+[ 6372733ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://hif-dliq.deepseek.com/query:0

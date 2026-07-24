@@ -1,0 +1,21 @@
+[     338ms] [INFO] %c%s line-height: 30px; color: #FF6699 bili-fe-fp: 1.1.4 @ https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js:0
+[     689ms] [INFO] %c bili-fe-mirror %c v2.1.0  padding: 2px 6px; border-radius: 3px 0 0 3px; color: #fff; background: #FF6699; font-weight: bold; padding: 2px 6px; border-radius: 0 3px 3px 0; color: #fff; background: #FF9999; font-weight: bold; @ https://s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js:1
+[     689ms] [LOG] 白屏检测是否正常 {status: ok, loop: 0, data: Object} @ https://www.bilibili.com/video/BV1Mk8DzQEQM/?spm_id_from=333.337.search-card.all.click:4
+[    1096ms] [LOG] %c
+                     //
+         \\         //
+          \\       //
+    ##DDDDDDDDDDDDDDDDDDDDDD##
+    ## DDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+    ## hh                hh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+    ## hh    //    \\    hh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+    ## hh   //      \\   hh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+    ## hh                hh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+    ## hh      wwww      hh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+    ## hh                hh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+    ## MMMMMMMMMMMMMMMMMMMM ##
+    ##MMMMMMMMMMMMMMMMMMMMMM##                                          Release undefined@no release yet
+         \/            \/                                       Powered by @bilibili/jinkela-core@2.8.14 color:#00a1d6 @ https://s1.hdslb.com/bfs/static/jinkela/video/video.8df4bfdc8a4ea4283f4cdb56e1d073a7750a1f3f.js:0
+[    1455ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ chrome-extension://bpoadfkcbjbfhfodiogcnhhhpibjhbnh/content_main.js:4846
+[   21589ms] [WARNING] WebSocket connection to 'wss://hw-v2-web-player-tracker.biliapi.net/socket.io/?buvid=345364A2-DCC9-D5BB-B978-DD04DD2FA57851794infoc&sdkVersion=2.14.0%3Aleecher&aid=114934063107431&cid=31346722511&sessionid=gzX94xu1vf5e81GBA1KaF&mid=291868276&duration=788&testID=0&EIO=4&transport=websocket' failed: WebSocket is closed before the connection is established. @ https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js:1
+[   53571ms] [WARNING] WebSocket connection to 'wss://hw-v2-web-player-tracker.biliapi.net/socket.io/?buvid=345364A2-DCC9-D5BB-B978-DD04DD2FA57851794infoc&sdkVersion=2.14.0%3Aleecher&aid=114934063107431&cid=31346722511&sessionid=gzX94xu1vf5e81GBA1KaF&mid=291868276&duration=788&testID=0&EIO=4&transport=websocket' failed: WebSocket is closed before the connection is established. @ https://s1.hdslb.com/bfs/static/nc/nc-loader-2.14.0.min.js:1

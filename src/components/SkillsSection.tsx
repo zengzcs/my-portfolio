@@ -6,15 +6,24 @@ interface Skill {
   color: 'cyan' | 'magenta' | 'yellow' | 'green';
 }
 
-const skills: Skill[] = [
+const frontendSkills: Skill[] = [
   { name: 'JavaScript / TypeScript', percent: 95, color: 'cyan' },
   { name: 'React / Next.js', percent: 90, color: 'cyan' },
-  { name: 'Astro / Vue', percent: 85, color: 'magenta' },
+  { name: 'Astro / Vue', percent: 85, color: 'cyan' },
+];
+
+const backendSkills: Skill[] = [
+  { name: 'Python / Flask', percent: 90, color: 'magenta' },
+  { name: 'Java / Spring Boot', percent: 85, color: 'magenta' },
+  { name: 'Go / Gin', percent: 82, color: 'magenta' },
+  { name: 'Rust / Axum', percent: 80, color: 'magenta' },
   { name: 'Fastify / NestJS', percent: 92, color: 'magenta' },
-  { name: 'Rust / Axum', percent: 80, color: 'yellow' },
+];
+
+const aiSkills: Skill[] = [
   { name: 'vLLM / SGLang', percent: 85, color: 'yellow' },
-  { name: 'llama.cpp', percent: 78, color: 'green' },
-  { name: 'Docker / K8s / AWS', percent: 75, color: 'green' },
+  { name: 'llama.cpp', percent: 78, color: 'yellow' },
+  { name: 'Docker / K8s / AWS', percent: 75, color: 'yellow' },
 ];
 
 export default function SkillsSection() {
@@ -24,12 +33,12 @@ export default function SkillsSection() {
         <h2 className="section-title">
           <span className="accent-cyan">技</span> <span className="accent-magenta">能</span> <span className="accent-yellow">展</span> <span className="accent-green">示</span>
         </h2>
-        <div className="grid-2">
+        <div className="grid-3">
           <div className="card card-cyan">
             <h3 className="card-title" style={{ color: 'var(--neon-cyan)', textShadow: '0 0 8px rgba(0,240,255,0.5)' }}>
               前端开发
             </h3>
-            {skills.slice(0, 3).map((skill) => (
+            {frontendSkills.map((skill) => (
               <div key={skill.name} style={{ marginBottom: 18 }}>
                 <div className="skill-item-label">
                   <span className="skill-item-name">{skill.name}</span>
@@ -46,9 +55,28 @@ export default function SkillsSection() {
           </div>
           <div className="card card-magenta">
             <h3 className="card-title" style={{ color: 'var(--neon-magenta)', textShadow: '0 0 8px rgba(255,0,255,0.5)' }}>
-              后端 & AI 推理
+              后端开发
             </h3>
-            {skills.slice(3).map((skill) => (
+            {backendSkills.map((skill) => (
+              <div key={skill.name} style={{ marginBottom: 18 }}>
+                <div className="skill-item-label">
+                  <span className="skill-item-name">{skill.name}</span>
+                  <span className="skill-item-percent">{skill.percent}%</span>
+                </div>
+                <div className="skill-bar">
+                  <div
+                    className={`skill-bar-fill skill-bar-${skill.color}`}
+                    style={{ width: `${skill.percent}%` }}
+                  />
+                </div>
+              </div>
+            ))}
+          </div>
+          <div className="card card-yellow">
+            <h3 className="card-title" style={{ color: 'var(--neon-yellow)', textShadow: '0 0 8px rgba(255,230,0,0.5)' }}>
+              AI 推理
+            </h3>
+            {aiSkills.map((skill) => (
               <div key={skill.name} style={{ marginBottom: 18 }}>
                 <div className="skill-item-label">
                   <span className="skill-item-name">{skill.name}</span>
